@@ -1,4 +1,4 @@
-Iago Sovereign Memory Engine, v1.1 (ISME)
+# Iago Sovereign Memory Engine, v1.1 (ISME)
 
 This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.
 
