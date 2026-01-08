@@ -4,7 +4,7 @@ This project is provided for portfolio review only. No permission is granted for
 
 OVERVIEW
 
-The Iago Sovereign Memory Engine (ISME) is an extended and refactored version of an MIT‑licensed memory engine. This version introduces new components, improved architecture, and expanded capabilities designed for AI‑adjacent workflows, persona protocols, and long‑term memory systems.
+The Iago Sovereign Memory Engine (ISME) is an extended and refactored version of a MIT‑licensed memory engine. This version introduces new components, improved architecture, and expanded capabilities designed for AI‑adjacent workflows, persona protocols, and long‑term memory systems.
 
 This project demonstrates:
 - multi‑database memory architecture
