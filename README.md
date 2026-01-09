@@ -1,12 +1,17 @@
-# Iago Sovereign Memory Engine, v1.1 (ISME)
+## The Iago Sovereign Memory Engine (ISME)
 
-This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.
+#### This project is an extended and refactored version of a MIT‑licensed memory engine. This version introduces new components, improved architecture, and expanded capabilities designed for AI‑adjacent workflows, persona protocols, and long‑term memory systems.
 
-OVERVIEW
+---
 
-The Iago Sovereign Memory Engine (ISME) is an extended and refactored version of a MIT‑licensed memory engine. This version introduces new components, improved architecture, and expanded capabilities designed for AI‑adjacent workflows, persona protocols, and long‑term memory systems.
+*This project is provided for portfolio review only. No permission is granted for reuse, modification, or redistribution.*
+
+---
+
+#### Overview
 
 This project demonstrates:
+
 - multi‑database memory architecture
 - semantic search integration
 - modular component design
@@ -14,24 +19,29 @@ This project demonstrates:
 - AI‑focused workflow engineering
 - refactoring and extending open‑source systems
 
-KEY COMPONENTS
+#### Key Components
 
 Memory Broker
+
 Routes memory operations, manages database selection, and coordinates retrieval logic.
 
 Alchemical Engine
+
 Handles transformation, embedding, and semantic processing of memory entries.
 
 Housekeeper
+
 Performs automated cleanup, pruning, and maintenance tasks to keep memory stores efficient.
 
 Semantic Search Layer
+
 Enables vector‑based retrieval for more accurate and context‑aware memory access.
 
 Multi‑Database Support
+
 Allows separate memory domains (short‑term, long‑term, persona‑specific, etc.) to coexist cleanly.
 
-KEY FEATURES
+#### Key Features
 
 - Semantic search integration for improved retrieval
 - Multi‑database architecture for structured memory domains
